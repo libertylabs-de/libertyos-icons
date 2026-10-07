@@ -4,7 +4,7 @@
 
 
 ## Design
-# LibertyOS Icons based on Hatter is a rounded-square icon theme designed primarily for LibertyOS, the system installed on [LibertyDrive](https://libertylabs.de/libertydrive) and [LibertyBook](https://libertylabs.de/libertybook). Its aesthetic complements GNOME’s rounded windows, buttons, and other interface elements.
+# LibertyOS Icons based on Hatter is a rounded-square icon theme designed primarily for LibertyOS, the system installed on [LibertyDrive](https://libertylabs.de/en/libertydrive) and [LibertyBook](https://libertylabs.de/en/libertybook). Its aesthetic complements GNOME’s rounded windows, buttons, and other interface elements.
 
 The theme’s design philosophy is to create rounded-square icons that remain faithful to each application’s identity, name, color palette, and branding. Rather than replacing icons with generic alternatives or imitating another operating system, Hatter preserves the character of the original applications wherever possible.
 
