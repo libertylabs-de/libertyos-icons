@@ -1,6 +1,6 @@
 # Hatter Rounded GNOME Icons
 
-![Hatter icons](https://github.com/Mibea/Hatter/blob/main/Developer-tools/Artwork/Hatter-overview.png)
+![Hatter icons](https://github.com/libertylabs-de/libertyos-icons/blob/main/Developer-tools/Artwork/Hatter-overview.png)
 
 
 ## Design
