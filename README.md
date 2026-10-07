@@ -1,10 +1,10 @@
-# Hatter Rounded GNOME Icons
+# LibertyOS Icons based on Hatter
 
 ![Hatter icons](https://github.com/libertylabs-de/libertyos-icons/blob/main/Developer-tools/Artwork/Hatter-overview.png)
 
 
 ## Design
-Hatter is a rounded-square icon theme designed primarily for Adwaita, the default GNOME desktop theme. Its aesthetic complements GNOME’s rounded windows, buttons, and other interface elements.
+# LibertyOS Icons based on Hatter is a rounded-square icon theme designed primarily for Adwaita, the default GNOME desktop theme. Its aesthetic complements GNOME’s rounded windows, buttons, and other interface elements.
 
 The theme’s design philosophy is to create rounded-square icons that remain faithful to each application’s identity, name, color palette, and branding. Rather than replacing icons with generic alternatives or imitating another operating system, Hatter preserves the character of the original applications wherever possible.
 
